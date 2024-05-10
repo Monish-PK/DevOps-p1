@@ -1,0 +1,6 @@
+Step 1: Click Start.
+Step 2: In the Search Box, type "Cmd".
+Step 3: Press Enter to open the Command Prompt.
+Step 4: Type "Dir" and press Enter. ...
+Step 5: Type "Cd Desktop" and press Enter. ...
+Step 6: Type "Mkdir YourName" and press Enter.
